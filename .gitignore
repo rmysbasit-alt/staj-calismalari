@@ -1,0 +1,12 @@
+# Python & Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS
+.vscode/
+.DS_Store
